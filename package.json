@@ -59,7 +59,7 @@
         "dotenv": "^8.6.0",
         "esbuild": "^0.25.5",
         "fs-extra": "^8.1.0",
-        "glob": "^11.0.0",
+        "glob": "^11.1.0",
         "glob-gitignore": "^1.0.15",
         "husky": "^7.0.4",
         "inquirer": "^7.3.3",
