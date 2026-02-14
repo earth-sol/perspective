@@ -91,7 +91,7 @@ catalog:
     "puppeteer": ">=24"
     "style-loader": ">=4 < 5"
     "superstore-arrow": "3.2.0"
-    "tar": "^7.4.3"
+    "tar": "^7.5.7"
     "tsx": "^4.20.3"
     "typedoc": "^0.28.7"
     "typescript": ">=5 <6"
