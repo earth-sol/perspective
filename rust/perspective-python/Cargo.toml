@@ -59,7 +59,7 @@ python-config-rs = "0.1.2"
 [dependencies]
 perspective-client = { version = "4.1.1" }
 perspective-server = { version = "4.1.1" }
-bytes = "1.10.1"
+bytes = "1.11.1"
 chrono = "0.4"
 macro_rules_attribute = "0.2.2"
 async-lock = "2.5.0"
