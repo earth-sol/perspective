@@ -81,7 +81,7 @@ catalog:
     "husky": ">=9"
     "inquirer": ">=12 <13"
     "less": "^4.1.0"
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.23"
     "microtime": ">=3 <4"
     "mkdirp": "^0.5.6"
     "moment": "^2.30.1"
